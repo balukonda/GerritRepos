@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="Project1"
+           name="balukonda/Project1.git" remote="origin" />
+
+  <project path="Project2"
+           name="balukonda/Project2.git" remote="origin" />
+
+  <project path="apps/Project3"
+           name="balukonda/Project3.git" remote="origin" />
+
+</manifest>
